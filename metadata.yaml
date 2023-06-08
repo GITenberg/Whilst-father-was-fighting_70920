@@ -1,0 +1,28 @@
+_repo: Whilst-father-was-fighting_70920
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Morrow, Albert
+    gutenberg_agent_id: '55996'
+    url: http://www.gutenberg.org/2009/agents/55996
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70920'
+language: en
+pgterms:marc905: 20230529233424stooke
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Whilst father was fighting
+url: http://www.gutenberg.org/ebooks/70920
