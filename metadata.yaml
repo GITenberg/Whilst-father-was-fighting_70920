@@ -5,12 +5,17 @@ contributor:
     agent_name: Morrow, Albert
     gutenberg_agent_id: '55996'
     url: http://www.gutenberg.org/2009/agents/55996
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70920#Whilst-father-was-fighting
 gutenberg_issued: '2023-06-06'
 identifiers:
   gutenberg: '70920'
